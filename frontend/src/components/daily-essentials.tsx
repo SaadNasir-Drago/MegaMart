@@ -55,7 +55,7 @@ export function DailyEssentials() {
                   alt={item.name}
                   width={150}
                   height={150}
-                  className="object-cover rounded-lg" // Smaller size for the image
+                  className="object-cover rounded-lg" 
                 />
               </div>
               <div className="space-y-1">
