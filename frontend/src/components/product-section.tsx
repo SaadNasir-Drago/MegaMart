@@ -19,7 +19,7 @@ export function ProductSection() {
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-      const response = await fetch('http://localhost:4000/products');
+      const response = await fetch('https://ecommerce-website-production-1a3a.up.railway.app/products');
       const data = await response.json();
       // Update the products state with the fetched data
       setProducts(data);
