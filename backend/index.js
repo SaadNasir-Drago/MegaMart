@@ -25,7 +25,7 @@ mongoose
     console.error('Failed to connect to MongoDB', err);
   });
 
-// Define a Mongoose schema and model for the 'products' collection
+
 const productSchema = new mongoose.Schema({
   _id: mongoose.Types.ObjectId,
   name: String,
