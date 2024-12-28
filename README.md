@@ -1,4 +1,5 @@
 Deployed: https://ecommerce-website-woad-nine.vercel.app/
+
 Figma: https://www.figma.com/proto/amaZWxdXFytbLjLBSbkuNN/MegaMart?node-id=0-1&t=OKt78VaoDIfJdPyC-1
 
 A web application developed with Next.js, TypeScript, TailwindCSS with framer-motion for frontend, Express.js for the backend and NoSQL MongoDB for database. 
